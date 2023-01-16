@@ -10,6 +10,10 @@ python bsp_model.py
 """
 python ml_viz.py
 """
+#Note the surface plot(video2) file takes a little bit of time because 3d plotting is a bit expensive in this case.
+For the ease of use, while running ml_viz.py, click on the curves window first, then click and hold only one of the 2 interior crosses/points. Move the point and let go. Now you will need to wait a little to see the changes as shown in the 2nd video.
+
+#bsp_model.py is very fast as shown in video 1.
 
 https://user-images.githubusercontent.com/28961441/212672261-b6e81a4a-4b91-4ddd-a082-1dae9e9f65df.mov
 
